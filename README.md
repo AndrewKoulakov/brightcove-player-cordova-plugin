@@ -178,7 +178,7 @@ Supported Platforms
 TO DO
 ===================
 
-- Localization for "Done" button
+- Localization for "Done" button fixed
 
 
 
